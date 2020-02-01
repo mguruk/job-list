@@ -1,0 +1,6 @@
+.Borderbox{
+    border: 0px solid transparent;
+    display: flex;
+    justify-content: flex-start;
+    width:50%;
+}
